@@ -5,7 +5,7 @@ A a really slick form builder for Angular and Bootstrap. JSON in one end, a nice
 
 
 
-In your controller:
+###In your controller:
 ```javascript
 $scope.formBuilderForm = {
 		formName : "testForm",
@@ -135,7 +135,7 @@ $scope.formBuilderForm = {
 	]
 };
 ```
-In your partial:
+###In your partial:
 
 ```html
 <div form-builder form-builder-form="formBuilderForm"></div>
