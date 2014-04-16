@@ -6,7 +6,7 @@ A a really slick form builder for Angular and Bootstrap. JSON in one end, a nice
 
 Include the ```formidable``` module in your app...
 
-###then in your controller:
+###Then, in your controller, get some data in a format similar to this: 
 ```javascript
 $scope.formBuilderForm = {
 		formName : "testForm",
