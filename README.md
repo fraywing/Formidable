@@ -4,8 +4,9 @@ Formidible
 A a really slick form builder for Angular and Bootstrap. JSON in one end, a nice form out the other. 
 
 
+Include the ```formidiable``` module in your app... 
 
-###In your controller:
+###...then in your controller:
 ```javascript
 $scope.formBuilderForm = {
 		formName : "testForm",
