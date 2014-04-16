@@ -1,4 +1,5 @@
-directives.directive('formBuilder', function($sce, $compile){
+angular.module('formidable', [])
+.directive('formBuilder', function($sce, $compile){
 	var build = {
 		scope : null,
 		form : function(name){
